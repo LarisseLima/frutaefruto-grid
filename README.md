@@ -22,7 +22,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🎨 Layout
 
-<p> https://alurinha-flex.netlify.app/ </p>
+<p>https://frutaefruto.netlify.app/ </p>
 <img src="assets/img/layout.png">
 
 
