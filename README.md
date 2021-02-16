@@ -11,7 +11,7 @@
 
 ## 🛠 Tecnologias
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+O projeto foi desenvolvido utilizando as seguintes tecnologias e frameworks:
 
 
 - HTML
