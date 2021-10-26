@@ -22,7 +22,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e frameworks:
 
 ## 🎨 Layout
 
-<p>https://frutaefruto.netlify.app/ </p>
 <img src="assets/img/layout.png">
 
 
