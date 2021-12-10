@@ -16,7 +16,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e frameworks:
 
 - HTML
 - CSS
-- Bootstrap
+- Bootstrap 5
 
 
 
