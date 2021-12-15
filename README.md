@@ -13,7 +13,6 @@
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias e frameworks:
 
-
 - HTML
 - CSS
 - Bootstrap 5
@@ -23,7 +22,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e frameworks:
 ## 🎨 Layout
 
 <img src="assets/img/layout.png">
-
 
 
 <p align="center"><b>Feito com 	:coffee: <br> por Larisse Lima</b></p>
