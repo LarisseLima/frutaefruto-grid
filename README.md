@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    O projeto Fruta & Fruto  foi criado para treino no conhecimento de CSS e Bootstrap.
+    O projeto Fruta & Fruto  foi desenvolvido para treino com CSS e Bootstrap.
 </h3>
 
 
